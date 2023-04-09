@@ -1,0 +1,28 @@
+.head-container {
+    height: 100px;
+    width: auto;
+    background-color: aliceblue;
+    float: center;
+}
+
+.box-one {
+    height: 200px;
+    width: auto;
+    background-color: lightgray;
+}
+
+.box-two {
+    height: 200px;
+    width: auto;
+    border: 2px solid aliceblue; 
+}
+
+.box-three {
+    height: 200px;
+    width: auto;
+    background-color: lightgray;
+}
+
+* {
+    flex: 1;
+}
