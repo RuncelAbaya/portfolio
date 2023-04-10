@@ -26,3 +26,8 @@
 * {
     flex: 1;
 }
+
+h1 {
+    color: rgba(70, 80, 150, .9); 
+    font-family: sans-serif; 
+}
